@@ -1,6 +1,6 @@
 #> spawner:tick
 #コマンドブロック用
-function spawner:command/
+function spawner:command/main
 
 
 
